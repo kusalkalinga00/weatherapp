@@ -1,5 +1,9 @@
 # React Weather App
 
+## Live Site
+
+https://weather-app-by-kusal.netlify.app/
+
 ## Introduction
 
 I made this weather app using Axios and Openweather API(https://openweathermap.org/api).
